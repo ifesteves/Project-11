@@ -45,8 +45,5 @@ Os dados utilizados para análise estão disponíveis no arquivo CSV:
 ## Considerações Finais
 Este projeto visa auxiliar a Model Fitness na compreensão dos fatores que impactam a rotatividade de clientes e na elaboração de estratégias eficazes para retenção e interação com os mesmos. As análises e recomendações fornecidas têm como objetivo melhorar a experiência dos clientes e contribuir para o sucesso da rede de academias.
 
-Se houver alguma dúvida ou feedback, não hesite em entrar em contato.
-
-Obrigado pela oportunidade!
 
 
